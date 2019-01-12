@@ -1,6 +1,1 @@
-<?php 
-
-
-echo "Welcme";
-
-?>
+<?php  echo "Welcme"; ?>
